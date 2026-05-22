@@ -1,0 +1,153 @@
+[
+  {
+    "item_id": 1,
+    "variable": "GOVPROTCT",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "Which statement comes closer to your own view, even if neither is exactly right?",
+    "choices": [
+      "It's not the government's job to protect people from themselves",
+      "Sometimes laws to protect people from themselves are necessary"
+    ]
+  },
+  {
+    "item_id": 2,
+    "variable": "UNITY",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "Which statement comes closer to your own view, even if neither is exactly right?",
+    "choices": [
+      "Americans are united when it comes to the most important values",
+      "Americans are divided when it comes to the most important values"
+    ]
+  },
+  {
+    "item_id": 3,
+    "variable": "MOREGUNIMPACT",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "If more Americans owned guns, do you think there would be...",
+    "choices": [
+      "More crime",
+      "Less crime",
+      "No difference"
+    ]
+  },
+  {
+    "item_id": 4,
+    "variable": "VET1",
+    "dataset": "NPORS 2025",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "Have you or has anyone in your household ever served in the U.S. military or the military reserves?",
+    "choices": [
+      "Yes, I have served",
+      "Yes, someone else in my household has served",
+      "Yes, both myself and someone else in my household have served",
+      "No, nobody in my household has served"
+    ]
+  },
+  {
+    "item_id": 5,
+    "variable": "VOL12_CPS",
+    "dataset": "NPORS 2025",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "In the past 12 months, did you spend any time volunteering for any organization or association?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 6,
+    "variable": "INTFREQ",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "About how often do you use the internet?",
+    "choices": [
+      "Almost constantly",
+      "Several times a day",
+      "About once a day",
+      "Several times a week",
+      "Less often",
+      "I do not use the internet"
+    ]
+  },
+  {
+    "item_id": 7,
+    "variable": "SMUSE_TS",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "Do you ever use Truth Social?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 8,
+    "variable": "AGECAT",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "What is your age?",
+    "choices": [
+      "18-29",
+      "30-49",
+      "50-64",
+      "65 or older"
+    ]
+  },
+  {
+    "item_id": 9,
+    "variable": "GENDER",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "Do you describe yourself as a man, a woman, or in some other way?",
+    "choices": [
+      "A man",
+      "A woman",
+      "In some other way"
+    ]
+  },
+  {
+    "item_id": 10,
+    "variable": "RACETHN",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "What is your race and ethnicity?",
+    "choices": [
+      "White, non-Hispanic",
+      "Black, non-Hispanic",
+      "Hispanic",
+      "Asian, non-Hispanic",
+      "Other"
+    ]
+  },
+  {
+    "item_id": 11,
+    "variable": "INC_SDT1",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "Last year, what was your total family income from all sources, before taxes?",
+    "choices": [
+      "Less than $30,000",
+      "$30,000 to less than $40,000",
+      "$40,000 to less than $50,000",
+      "$50,000 to less than $70,000",
+      "$70,000 to less than $100,000",
+      "$100,000 to less than $125,000",
+      "$125,000 to less than $150,000",
+      "$150,000 or more"
+    ]
+  },
+  {
+    "item_id": 12,
+    "variable": "METRO",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "Do you live in a metropolitan area or a non-metropolitan area?",
+    "choices": [
+      "Metropolitan area",
+      "Non-metropolitan area"
+    ]
+  }
+]

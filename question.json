@@ -1,0 +1,13 @@
+{
+  "item_id": 1,
+  "variable": "POLIORIEN",
+  "dataset": "NPORS 2025",
+  "dimension": "Political Orientation",
+  "question": "Answer questions on your political values. What is your political orientation.",
+  "choices": [
+    "Democrat",
+    "Republican",
+    "Independent",
+    "Other"
+  ]
+}

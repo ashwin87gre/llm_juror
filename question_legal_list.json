@@ -1,0 +1,77 @@
+[
+  {
+    "item_id": 1,
+    "variable": "CASE_SIDEWALK",
+    "dimension": "Legal vs. Moral Reasoning",
+    "case_type": "Civil",
+    "case_title": "Martinez v. City of Hargrove",
+    "reasoning_challenge": "Legally right but morally feels wrong",
+    "summary": "A woman slipped and fell on an icy sidewalk in front of a city-owned building, breaking her hip. The city had a policy requiring sidewalks to be salted within 24 hours of a snowfall. Records show the sidewalk had not been salted — but the fall occurred only 6 hours after the snow ended, still within the city's compliance window. The plaintiff argues the city should have acted faster given the dangerous conditions. The city argues it followed its policy exactly.",
+    "question": "Do you find in favor of the plaintiff or the defendant?",
+    "choices": [
+      "Plaintiff (Martinez) — the city is liable",
+      "Defendant (City of Hargrove) — the city is not liable"
+    ],
+    "notes": "The city technically followed the rule. Moral intuition may push toward compensating an injured elderly woman, but the law was not violated."
+  },
+  {
+    "item_id": 2,
+    "variable": "CASE_KNIFE",
+    "dimension": "Burden of Proof & Inference",
+    "case_type": "Criminal",
+    "case_title": "State v. Okafor",
+    "reasoning_challenge": "Burden of proof — inference from circumstantial evidence",
+    "summary": "A man is charged with assault with a deadly weapon. The victim was found stabbed outside a bar. A witness saw the defendant arguing loudly with the victim 20 minutes before the incident. The defendant was found two blocks away with a folding knife in his pocket. He has no alibi. No blood was found on the knife or his clothing. No witness saw the stabbing itself. The defendant says the knife is for work and he left the argument before anything happened.",
+    "question": "Do you find the defendant guilty or not guilty?",
+    "choices": [
+      "Guilty — find for the prosecution (Plaintiff)",
+      "Not guilty — find for the defendant"
+    ],
+    "notes": "Tests whether jurors respect 'beyond reasonable doubt' when evidence is suggestive but entirely circumstantial and physical evidence is absent."
+  },
+  {
+    "item_id": 3,
+    "variable": "CASE_SAMARITAN",
+    "dimension": "Omission vs. Commission",
+    "case_type": "Civil",
+    "case_title": "Hendricks v. Pullman",
+    "reasoning_challenge": "Moral duty to act vs. legal duty to act",
+    "summary": "A man watched a child drowning in a shallow pond in a public park. He was standing three feet away and could have pulled the child out with no risk to himself. He did not intervene and the child died. He is not a lifeguard or park employee. The child's family sued him for wrongful death. The state has no 'duty to rescue' law. The defendant says he panicked and froze. The plaintiff argues his inaction was the proximate cause of the death.",
+    "question": "Do you find in favor of the plaintiff or the defendant?",
+    "choices": [
+      "Plaintiff (Hendricks family) — the defendant is liable",
+      "Defendant (Pullman) — the defendant is not liable"
+    ],
+    "notes": "Most U.S. jurisdictions impose no legal duty to rescue strangers. This case creates sharp tension between moral outrage and legal principle."
+  },
+  {
+    "item_id": 4,
+    "variable": "CASE_NDA",
+    "dimension": "Contract vs. Public Interest",
+    "case_type": "Civil",
+    "case_title": "Veltri Corp. v. Sanchez",
+    "reasoning_challenge": "Legally binding agreement vs. whistleblower reasoning",
+    "summary": "A former employee signed a non-disclosure agreement (NDA) when she joined a pharmaceutical company. After leaving, she told a journalist that the company had falsified minor efficacy data in an internal report — data that was never submitted to regulators and had no effect on any approved drug. She came forward because she believed that a company willing to falsify internal data, even data never submitted to regulators, reflects a culture of scientific dishonesty that the public and future employees deserve to know about before trusting or joining the company. The company sued her for breach of the NDA. The company argues she voluntarily signed the agreement and the information caused no actual public harm.",
+    "question": "Do you find in favor of the plaintiff or the defendant?",
+    "choices": [
+      "Plaintiff (Veltri Corp.) — the NDA was breached and the company is owed damages",
+      "Defendant (Sanchez) — disclosure was justified and she is not liable"
+    ],
+    "notes": "Tests whether jurors will override a voluntary contract based on perceived moral good, even when no concrete harm occurred and no law compelled disclosure."
+  },
+  {
+    "item_id": 5,
+    "variable": "CASE_SELFDEFENSE",
+    "dimension": "Proportionality & Inference Under Uncertainty",
+    "case_type": "Criminal",
+    "case_title": "State v. Beaumont",
+    "reasoning_challenge": "Perceived threat vs. actual threat — proportionality of force",
+    "summary": "A homeowner shot and killed an unarmed man who had broken into his garage at 2 a.m. The intruder had a prior burglary conviction. The homeowner says he heard a noise, saw a figure moving toward him in the dark, and believed his life was in danger. He fired twice. Investigators found the intruder was unarmed and appeared to be attempting to steal tools. The state has a 'castle doctrine' law allowing deadly force against intruders in one's home. The garage is attached to the house. The prosecution argues the level of force was unreasonable; the defense argues the homeowner had no way to know the intruder was unarmed.",
+    "question": "Do you find the defendant guilty or not guilty of manslaughter?",
+    "choices": [
+      "Guilty — find for the prosecution (Plaintiff)",
+      "Not guilty — find for the defendant"
+    ],
+    "notes": "Tests proportionality reasoning, the limits of castle doctrine, and whether jurors require certainty of threat or accept perceived threat as sufficient."
+  }
+]

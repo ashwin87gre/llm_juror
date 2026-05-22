@@ -1,0 +1,553 @@
+[
+  {
+    "item_id": 1,
+    "variable": "GOVPROTCT",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "Which statement comes closer to your own view, even if neither is exactly right?",
+    "choices": [
+      "It's not the government's job to protect people from themselves",
+      "Sometimes laws to protect people from themselves are necessary"
+    ]
+  },
+  {
+    "item_id": 2,
+    "variable": "UNITY",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "Which statement comes closer to your own view, even if neither is exactly right?",
+    "choices": [
+      "Americans are united when it comes to the most important values",
+      "Americans are divided when it comes to the most important values"
+    ]
+  },
+  {
+    "item_id": 3,
+    "variable": "MOREGUNIMPACT",
+    "dataset": "NPORS 2025",
+    "dimension": "Core Values & Worldview",
+    "question": "If more Americans owned guns, do you think there would be...",
+    "choices": [
+      "More crime",
+      "Less crime",
+      "No difference"
+    ]
+  },
+  {
+    "item_id": 4,
+    "variable": "RELIG",
+    "dataset": "NPORS 2025",
+    "dimension": "Religiosity & Spiritual Practice",
+    "question": "What is your present religion, if any?",
+    "choices": [
+      "Protestant (such as Baptist, Methodist, Presbyterian, Lutheran, Pentecostal, etc.)",
+      "Roman Catholic",
+      "Mormon (Church of Jesus Christ of Latter-day Saints or LDS)",
+      "Orthodox (such as Greek, Russian, or some other Orthodox church)",
+      "Jewish",
+      "Muslim",
+      "Buddhist",
+      "Hindu",
+      "Atheist",
+      "Agnostic",
+      "Something else",
+      "Nothing in particular"
+    ]
+  },
+  {
+    "item_id": 5,
+    "variable": "BORN",
+    "dataset": "NPORS 2025",
+    "dimension": "Religiosity & Spiritual Practice",
+    "question": "Would you describe yourself as a born-again or evangelical Christian?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 6,
+    "variable": "RELIMP",
+    "dataset": "NPORS 2025",
+    "dimension": "Religiosity & Spiritual Practice",
+    "question": "How important is religion in your life?",
+    "choices": [
+      "Very important",
+      "Somewhat important",
+      "Not too important",
+      "Not at all important"
+    ]
+  },
+  {
+    "item_id": 7,
+    "variable": "ATTENDPER",
+    "dataset": "NPORS 2025",
+    "dimension": "Religiosity & Spiritual Practice",
+    "question": "Aside from weddings and funerals, how often do you attend religious services in person?",
+    "choices": [
+      "More than once a week",
+      "Once a week",
+      "Once or twice a month",
+      "A few times a year",
+      "Seldom",
+      "Never"
+    ]
+  },
+  {
+    "item_id": 8,
+    "variable": "PRAY",
+    "dataset": "NPORS 2025",
+    "dimension": "Religiosity & Spiritual Practice",
+    "question": "Outside of attending religious services, how often do you pray?",
+    "choices": [
+      "Several times a day",
+      "Once a day",
+      "A few times a week",
+      "Once a week",
+      "A few times a month",
+      "Seldom",
+      "Never"
+    ]
+  },
+  {
+    "item_id": 9,
+    "variable": "PUBLICACTS_a_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think playing music out loud in public is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 10,
+    "variable": "PUBLICACTS_b_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think cursing out loud in public is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 11,
+    "variable": "PUBLICACTS_c_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think visibly displaying swear words, such as on a T-shirt or sign, is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 12,
+    "variable": "PUBLICACTS_d_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think taking a photo or video of someone without asking permission is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 13,
+    "variable": "PUBLICACTS_f_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think bringing a pet into an indoor space like a grocery store or shop is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 14,
+    "variable": "PUBLICACTS_g_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think bringing a child into a place that's typically for adults, for example, a bar or upscale restaurant, is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 15,
+    "variable": "PUBLICACTS_h_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think smoking around other people is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 16,
+    "variable": "PUBBREASTFEED_W159",
+    "dataset": "ATP W159",
+    "dimension": "Social/Moral Norms & Reasonable Person",
+    "question": "Do you think breastfeeding a baby in public is...",
+    "choices": [
+      "Always acceptable",
+      "Usually acceptable",
+      "Sometimes acceptable",
+      "Rarely acceptable",
+      "Never acceptable"
+    ]
+  },
+  {
+    "item_id": 17,
+    "variable": "PARTYSUM",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Political Identity",
+    "question": "In politics today, do you consider yourself a Republican, a Democrat, an Independent, or something else? (If Independent or something else: As of today, do you lean more to the Republican Party or more to the Democratic Party?)",
+    "choices": [
+      "Republican / Lean Republican",
+      "Democrat / Lean Democrat",
+      "Independent / Other / No lean"
+    ]
+  },
+  {
+    "item_id": 18,
+    "variable": "F_IDEO",
+    "dataset": "ATP W159",
+    "dimension": "Political Identity",
+    "question": "In general, would you describe your political views as...",
+    "choices": [
+      "Very conservative",
+      "Conservative",
+      "Moderate",
+      "Liberal",
+      "Very liberal"
+    ]
+  },
+  {
+    "item_id": 19,
+    "variable": "REGISTRATION",
+    "dataset": "NPORS 2025",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "Are you registered to vote at your current address?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 20,
+    "variable": "VET1",
+    "dataset": "NPORS 2025",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "Have you or has anyone in your household ever served in the U.S. military or the military reserves?",
+    "choices": [
+      "Yes, I have served",
+      "Yes, someone else in my household has served",
+      "Yes, both myself and someone else in my household have served",
+      "No, nobody in my household has served"
+    ]
+  },
+  {
+    "item_id": 21,
+    "variable": "VOL12_CPS",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "In the past 12 months, did you spend any time volunteering for any organization or association?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 22,
+    "variable": "BIRTHPLACE",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Civic & Behavioral Anchors",
+    "question": "Where were you born?",
+    "choices": [
+      "In the United States (one of the 50 states or the District of Columbia)",
+      "In Puerto Rico",
+      "In another U.S. territory",
+      "In another country"
+    ]
+  },
+  {
+    "item_id": 23,
+    "variable": "INTFREQ",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "About how often do you use the internet?",
+    "choices": [
+      "Almost constantly",
+      "Several times a day",
+      "About once a day",
+      "Several times a week",
+      "Less often",
+      "I do not use the internet"
+    ]
+  },
+  {
+    "item_id": 24,
+    "variable": "SMUSE_FB",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "Do you ever use Facebook?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 25,
+    "variable": "SMUSE_X",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "Do you ever use X (formerly Twitter)?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 26,
+    "variable": "SMUSE_TT",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "Do you ever use TikTok?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 27,
+    "variable": "SMUSE_TS",
+    "dataset": "NPORS 2025",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "Do you ever use Truth Social?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 28,
+    "variable": "COMTYPE2",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Lifestyle, Media, Technology",
+    "question": "How would you describe the community where you currently live?",
+    "choices": [
+      "Urban",
+      "Suburban",
+      "Rural"
+    ]
+  },
+  {
+    "item_id": 29,
+    "variable": "AGECAT",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "What is your age?",
+    "choices": [
+      "18-29",
+      "30-49",
+      "50-64",
+      "65 or older"
+    ]
+  },
+  {
+    "item_id": 30,
+    "variable": "GENDER",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Do you describe yourself as a man, a woman, or in some other way?",
+    "choices": [
+      "A man",
+      "A woman",
+      "In some other way"
+    ]
+  },
+  {
+    "item_id": 31,
+    "variable": "RACETHN",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "What is your race and ethnicity?",
+    "choices": [
+      "White, non-Hispanic",
+      "Black, non-Hispanic",
+      "Hispanic",
+      "Asian, non-Hispanic",
+      "Other"
+    ]
+  },
+  {
+    "item_id": 32,
+    "variable": "HISP",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Are you of Hispanic, Latino, or Spanish origin, such as Mexican, Puerto Rican, or Cuban?",
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "item_id": 33,
+    "variable": "F_EDUCCAT2",
+    "dataset": "ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "What is the highest level of school you have completed or the highest degree you have received?",
+    "choices": [
+      "Less than high school",
+      "High school graduate",
+      "Some college, no degree",
+      "Associate degree",
+      "College graduate / some postgraduate",
+      "Postgraduate"
+    ]
+  },
+  {
+    "item_id": 34,
+    "variable": "INC_SDT1",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "Last year, what was your total family income from all sources, before taxes?",
+    "choices": [
+      "Less than $30,000",
+      "$30,000 to less than $40,000",
+      "$40,000 to less than $50,000",
+      "$50,000 to less than $70,000",
+      "$70,000 to less than $100,000",
+      "$100,000 to less than $125,000",
+      "$125,000 to less than $150,000",
+      "$150,000 or more"
+    ]
+  },
+  {
+    "item_id": 35,
+    "variable": "F_MARITAL",
+    "dataset": "ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "What is your marital status?",
+    "choices": [
+      "Married",
+      "Living with a partner",
+      "Divorced",
+      "Separated",
+      "Widowed",
+      "Never been married"
+    ]
+  },
+  {
+    "item_id": 36,
+    "variable": "ADULTS",
+    "dataset": "NPORS 2025",
+    "dimension": "Demographic Anchors",
+    "question": "How many adults, age 18 or older, currently live in your household, including yourself?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5 or more"
+    ]
+  },
+  {
+    "item_id": 37,
+    "variable": "CREGION",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Which region of the United States do you live in?",
+    "choices": [
+      "Northeast",
+      "Midwest",
+      "South",
+      "West"
+    ]
+  },
+  {
+    "item_id": 38,
+    "variable": "F_CDIVISION",
+    "dataset": "ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Which Census division do you live in?",
+    "choices": [
+      "New England",
+      "Middle Atlantic",
+      "East North Central",
+      "West North Central",
+      "South Atlantic",
+      "East South Central",
+      "West South Central",
+      "Mountain",
+      "Pacific"
+    ]
+  },
+  {
+    "item_id": 39,
+    "variable": "METRO",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Do you live in a metropolitan area or a non-metropolitan area?",
+    "choices": [
+      "Metropolitan area",
+      "Non-metropolitan area"
+    ]
+  },
+  {
+    "item_id": 40,
+    "variable": "RELIGCAT1",
+    "dataset": "NPORS 2025 / ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "Which of the following best describes your religious affiliation?",
+    "choices": [
+      "Protestant",
+      "Catholic",
+      "Religiously unaffiliated (atheist, agnostic, or nothing in particular)",
+      "Other religion"
+    ]
+  },
+  {
+    "item_id": 41,
+    "variable": "F_HISP_ORIGIN",
+    "dataset": "ATP W159",
+    "dimension": "Demographic Anchors",
+    "question": "(Asked only if Hispanic) What is your country of origin or family heritage?",
+    "choices": [
+      "Mexican",
+      "Puerto Rican",
+      "Cuban",
+      "Dominican",
+      "Salvadoran",
+      "Spanish",
+      "Other Central American",
+      "Other South American",
+      "Other country"
+    ]
+  }
+]
